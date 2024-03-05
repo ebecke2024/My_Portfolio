@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DogCourseProject</string>
+    <string name="btn_dog1">Rose</string>
+    <string name="btn_dog2">Arco</string>
+    <string name="btn_dog3">Lily</string>
+    <string name="btn_dog4">Paul</string>
+    <string name="txt_title">Please Pick A Dog</string>
+    <string name="txt_age">Age</string>
+    <string name="txt_gender">Gender</string>
+    <string name="txt_breed">Breedable</string>
+    <string name="btn_appointment">Book Appointment</string>
+</resources>
